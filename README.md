@@ -63,15 +63,3 @@ FinoStep is a free and accessible **AI-powered financial advisory and education 
 - Add voice assistant for illiterate users  
 
 ---
-
-## 📁 Repository Structure
-
-```
-📁 FinoStep
-├── backend/
-├── frontend/
-├── chatbot/
-├── assets/
-├── README.md
-└── ...
-```
